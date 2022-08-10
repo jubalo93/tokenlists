@@ -1387,6 +1387,14 @@
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF915fDDa4c882731C0456a4214548Cd13A822886/logo.png"
     },
     {
+      "chainId": 43114,
+      "address": "0X62EDC0692BD897D2295872A9FFCAC5425011C661",
+      "decimals": 18,
+      "name": "GMX",
+      "symbol": "GMX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xF915fDDa4c882731C0456a4214548Cd13A822886/logo.png"
+    },
+    {
       "chainId": 80001,
       "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
       "decimals": 18,
